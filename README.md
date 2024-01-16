@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Malik</h1>
-<h3 align="center">Tech enthusiast || Postman API Platform Student Expert || Open-Source Contributor || Co-founder & Tech Head at Semicolons. Passionate about innovation and empowering through technology.</h3>
+<h3 align="center">Tech enthusiast || Open-Source Contributor at Curious Ecosystem || Co-founder & Tech Head at Semicolons || Postman API Platform Student Expert. Passionate about innovation and empowering through technology.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Naman065Malik&icon=0&color=0)](https://visitcount.itsvg.in)
 
